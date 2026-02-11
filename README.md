@@ -1,9 +1,8 @@
 <h1>👋 Hi, I’m @deyar4</h1>
 
-- 👀 fullstack Web Developer
+- 👀 Bioinformatician | fullstack Web Developer
 - 🌱 I’m currently learning/doing research on Bioinformatics & Data Science
 - 💞️ I’m looking to collaborate on intresting ideas or projects
-- 📫 You can reach me through my email deyarbakr1997@gmail.com
 
 
 
